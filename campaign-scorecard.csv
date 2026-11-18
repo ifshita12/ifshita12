@@ -1,0 +1,5 @@
+campaign,channel,impressions,clicks,gross_orders,retained_orders,spend_inr,net_sales_inr,ctr_pct,conversion_pct,cost_per_retained_order_inr,net_roas
+Cart reminder,Paid social,319975,10196,569,536,160054.03,780007.0,3.19,5.58,298.61,4.87
+High-intent search,Paid search,207033,8898,542,509,201937.23,733968.0,4.3,6.09,396.73,3.63
+Category discovery,Paid search,249747,6489,158,148,121308.88,213516.0,2.6,2.43,819.65,1.76
+Short-form prospecting,Paid social,292461,4673,38,36,59319.79,50400.0,1.6,0.81,1647.77,0.85
