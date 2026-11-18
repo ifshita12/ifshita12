@@ -12,5 +12,6 @@ I’m interested in how SEO, social media and content marketing shape customer d
 | --- | --- |
 | [Creator brand equity](creator-brand-equity.md) | My MBA research on how digital creators turn platform attention into sustainable brand equity. |
 | [Marketing campaign performance with SQL](campaign-performance-sql.md) | A reproducible analysis of conversion, refunds, ad spend and return on ad spend across four simulated campaigns. |
+| [MySql Atlas for Android](MySql-Atlas.md) | I built an offline SQL learning app with a practice editor, guided challenges and an error reference for four database systems. |
 
 Always learning, exploring new technologies, and building projects to grow my skills!
